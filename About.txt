@@ -1,5 +1,4 @@
 hi 
 
-im trying to figure out the git
-develop
+im trying to figure out the gits
 
